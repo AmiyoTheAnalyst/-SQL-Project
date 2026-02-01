@@ -16,3 +16,6 @@ This is a data cleaning project carried out using SQL. It highlights practical m
 1.SQL (Structured Query Language)
 
 2.MySQL (Database management system)
+
+--Conclusion
+This project demonstrates essential SQL data cleaning techniques for aspiring Data Analysts. The cleaned dataset is ready for further analysis or visualization using tools like Excel, Tableau, Power BI, or Python (Pandas).

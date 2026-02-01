@@ -3,10 +3,13 @@ This is a data cleaning project carried out using SQL. It highlights practical m
 
 -- The project applies four key data cleaning steps:
 
--1.Removing duplicates – Ensures each record is unique.
--2.Standardizing data – Formats text, dates, and other fields consistently.
--3.Handling null and blank values – Fills or removes missing data.
--4.Removing unnecessary rows or columns – Keeps the dataset relevant and manageable.
+1.Removing duplicates – Ensures each record is unique.
+
+2.Standardizing data – Formats text, dates, and other fields consistently.
+
+3.Handling null and blank values – Fills or removes missing data.
+
+4.Removing unnecessary rows or columns – Keeps the dataset relevant and manageable.
 
 --Technologies Used:
 

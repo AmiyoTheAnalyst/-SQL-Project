@@ -14,4 +14,5 @@ This is a data cleaning project carried out using SQL. It highlights practical m
 --Technologies Used:
 
 1.SQL (Structured Query Language)
+
 2.MySQL (Database management system)

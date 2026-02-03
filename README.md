@@ -15,6 +15,10 @@ This is a data cleaning project carried out using SQL. It highlights practical m
 
 1.SQL (Structured Query Language)
 
+
+
+![Project Banner](SQL_Project.jpg)
+
 2.MySQL (Database management system)
 
 --Conclusion
